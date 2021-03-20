@@ -1,0 +1,49 @@
+*
+{
+    padding:0;
+    margin:0;
+}
+ body 
+ {
+background-image: url(View.jpg);
+background-size: cover;
+background-position: center;
+box-sizing: border-box;
+font-family: sans-serif;
+
+ }
+.menu-bar 
+{
+    background: white;
+    text-align: center;
+}
+.menu-bar ul
+{
+display: inline-flex;
+list-style: none;
+color:black;
+
+}
+.menu-bar ul li
+{
+    width: 120px;
+    margin: 15px;
+    padding: 15px;
+}
+.menu-bar ul li a
+{
+    text-decoration: none;
+    color: black;
+
+}
+.content 
+{
+
+    
+    text-align: center;
+    line-height: 2
+}
+.align
+{
+    text-align: center;
+}
